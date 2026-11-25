@@ -2,7 +2,7 @@
 
 📊 Data Analyst | SQL | Python | Power BI | Tableau | Excel
 
-I'm a Data Analyst based in Raleigh, North Carolina, with experience transforming complex datasets into actionable business insights. My background includes data analysis, dashboard development, KPI reporting, data validation, ETL processes, and business intelligence solutions. 【1-d86848\|3】
+I'm a Data Analyst based in Raleigh, North Carolina, with experience transforming complex datasets into actionable business insights. My background includes data analysis, dashboard development, KPI reporting, data validation, ETL processes, and business intelligence solutions.
 
 ---
 
